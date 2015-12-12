@@ -1,0 +1,14 @@
+<style> 
+@font-face
+{
+    font-family: myTamilFont;
+    src: url(tamil_font.ttf);
+}
+
+div
+{
+    font-family: myTamilFont;
+}
+</style>
+
+http://www.quillpad.in/index.html#.Vlfrir9yVA4
